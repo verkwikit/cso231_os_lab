@@ -4,7 +4,7 @@
 #include <ctype.h>
 #include <string.h>
 #define MAX_ID_NUMBER 100
-
+// this file is redundant copy of q10 use Q10 
 //TODO:add a wait queue for processes that don't fit into memory
 //TODO: if two adjacent of memory are free, they are merged into one whole
 //TODO: refactor repeated code into a function
